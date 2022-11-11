@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background-color: #202b44;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+h1{
+    color: red;
+    font-size: 40px;
+    background-color: #000;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h3{
+    color: #fff;
+}
+
+button{
+    background-color: #a92141;
+    color: #FFF;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: #008b8b;
+}
